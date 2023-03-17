@@ -1,0 +1,27 @@
+body{
+    background-image: url(OIP\ \(1\).jpg);
+}
+
+.div1{
+    margin: 20px;
+    width: 300px;
+    height: 200px;
+    color: white;
+    background-image: url(OIP\ \(2\).jpg);
+    background-repeat: no-repeat;
+}
+.div2{
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+    color: white;
+    background-image: url(OIP\ \(2\).jpg);
+    background-repeat: no-repeat ;
+}
+.div3{
+    width: 300px;
+    height: 200px;    
+    margin: 20px;
+    color: white;
+    background-image: url(OIP.jpg);
+}
